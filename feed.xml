@@ -3,12 +3,32 @@
     <title>Sanqua Test</title>
     <link href="https://reintanto.github.io/SanquaTestWebsite/feed.xml" rel="self" />
     <link href="https://reintanto.github.io/SanquaTestWebsite" />
-    <updated>2025-11-11T16:16:05+07:00</updated>
+    <updated>2025-11-11T16:19:49+07:00</updated>
     <author>
         <name>A</name>
     </author>
     <id>https://reintanto.github.io/SanquaTestWebsite</id>
 
+    <entry>
+        <title>post2</title>
+        <author>
+            <name>A</name>
+        </author>
+        <link href="https://reintanto.github.io/SanquaTestWebsite/post2.html"/>
+        <id>https://reintanto.github.io/SanquaTestWebsite/post2.html</id>
+
+        <updated>2025-11-11T16:19:49+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    test test rest
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test test rest</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>post1</title>
         <author>

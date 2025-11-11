@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://reintanto.github.io/SanquaTestWebsite/sitemap.xml
